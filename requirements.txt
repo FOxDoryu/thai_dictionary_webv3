@@ -1,0 +1,4 @@
+streamlit
+wikipedia
+gtts
+deep-translator
