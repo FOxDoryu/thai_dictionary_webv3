@@ -6,3 +6,6 @@ google-api-python-client
 deep_translator
 wikipedia
 gtts
+google-search-results
+
+
