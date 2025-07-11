@@ -7,5 +7,5 @@ deep_translator
 wikipedia
 gtts
 google-search-results
-
+streamlit-authenticator
 
